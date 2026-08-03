@@ -1,0 +1,16 @@
+{
+  "name": "_05_code",
+  "version": "1.0.0",
+  "description": "- **unknown type** ek new keyword hai jo ki ham *any* ki jagah par use kar skte hain, unknown safe hai but mostly codes main any he use hota hai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
